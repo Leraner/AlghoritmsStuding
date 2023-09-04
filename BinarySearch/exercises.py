@@ -60,11 +60,9 @@ def binary_search(lst, item):
 
     return None
 
+
 sorted_list = sorted(phone_book, key=lambda x: int(list(x.keys())[0]))
 print(sorted_list)
 result = binary_search(sorted_list, 89218889900)
 # Возвращает индекс записи
 print(result)
-
-
-
