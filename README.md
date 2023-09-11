@@ -6,6 +6,7 @@
 
 * Поиск
   * Бинарный поиск (Binary Search)
+  * Поиск в ширину (Search In Width)
 * Сортировка
   * Сортировка выбором (Selection Sort)
   * Быстрая сортировка (Quick Sort)
